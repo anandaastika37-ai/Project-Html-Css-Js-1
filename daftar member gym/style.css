@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: "Montserrat", sans-serif; */
+}
+:root{
+    --warna-gray: rgb(46, 44, 44);
+    --warna-hijau: #58ff58;
+}
+body{
+    background-image: url(download.jpg);
+}
+.container{
+    display: flex;
+    align-items: center;
+
+}
+
+.form-daftar{
+    margin: 50px;
+    /* display: flex; */
+    background-color: var(--warna-gray);
+    width: 400px;
+    height: 500px;
+    color: var(--warna-hijau);
+    border-radius: 20px;
+    border: 2px var(--warna-hijau) solid;
+    font-family: "Montserrat";
+    box-shadow: 0px 0px 12px var(--warna-hijau);
+
+}
+.judul {
+    margin-top: 20px;
+    margin-left: 48px;
+    font-size: 25px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    color: white;
+    font-family: "Montserrat";
+    font-size: 17px;
+}
+.input-data{
+    display: flex;
+    flex-direction: column;
+    align-items:start;
+    justify-content: center;
+    font-family: "Quantico";
+    margin-top: 10px;
+    margin-left: 50px;
+}
+label{
+    margin-top: 20px;
+}
+
+input{
+    border-radius: 4px;
+    background-color: #484747;
+    border: 2px var(--warna-hijau) solid;
+    font-family: monospace;
+    color: var(--warna-hijau);
+    margin-top: 15px;
+      
+}
+
+input[type="number"]{
+    width: 50px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+input[type="text"]{
+    width: 200px;
+    height: 30px;
+    font-size: 17px;
+}
+
+input[type ="date"]{
+    color: var(--warna-hijau);
+    font-family: monospace;
+    width: 150px;
+    height: 30px;
+
+
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator{
+    filter: invert(1);
+
+}
+
+textarea{
+    background-color: #484747;
+    border: 2px var(--warna-hijau) solid;
+    color: var(--warna-hijau);
+    max-width: 200px;
+    max-height: 50px;
+}
+
+button{
+    background-color: rgb(60, 232, 60);
+    color: rgb(3, 75, 15);
+    width: 70px;
+    height: 40px;
+    font-size: 15px;
+    position: relative;
+    left: 230px;
+    top: 40px;
+    border: none;
+    border-radius: 7px;
+
+}
+
+button:hover{
+    background-color: greenyellow;
+    box-shadow: 0px 0px 15px green;
+}
+
+.listmember{
+    background-color: var(--warna-gray);
+    color: var(--warna-hijau);
+    width: 500px;
+    height: 500px;
+    font-family: "Montserrat";
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+    border: 2px var(--warna-hijau) solid;
+}
+
+.header{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.list{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 400px;
+    padding: 10px;
+    background-color: #484747;
+    border-radius: 10px;
+}
+
+.list > h2{
+    margin-bottom: 20px;
+
+}
+
+.list > h4{
+    display: flex;
+    align-items: center;
+    position: relative;
+    right: 78px;
+    top: 20px;
+
+}
+
+.list > h3{
+    text-align: center;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.list > h5{
+    position: relative;
+    right: 100px;
+    top: 17px;
+    color: white;
+}
+
+.batas{
+    width: 450px;
+    height: 400px;
+    overflow: scroll;
+    overflow-x: hidden;
+
+}
+
+.pemberitahuan{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #484747;
+    margin-top: 100px;
+}
