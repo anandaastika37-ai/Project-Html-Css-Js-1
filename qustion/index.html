@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Question Game</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="screen active" id="start-screen">
+            <h1>Quis Game</h1>
+            <p>cek pengetahuan dasarmu!!</p>
+            <button id="btn-start">GO to Quis</button>
+        </div>
+        <div class="screen" id="screen-quis">
+            <div class="quis-header">
+                <h2 id="theQuestion">belum ada pertanyaan</h2>
+                <div class="quis-info">
+                    <p>soal <span id="nomor">1</span> dari <span id="total-ques">5</span></p>
+                    <p>poin : <span id="poinn">0</span></p>
+                </div>
+            </div>
+                <div id="answers-container" class="answerscontainer">
+                    
+                </div>
+                <div class="progres-bar">
+                    <div id="progress" class="progress"></div>
+                </div>
+        </div>
+
+        <div id="result-screen" class="screen">
+            <h1>Quis result</h1>
+            <div class="result-info">
+                <p>Poin kamu : <span id="poin-akhir"> 0 </span> dari <span id="poin-maksimal"> 5 </span></p>
+                <div id="pesan-result">mantap</div>
+            </div>
+            <button id="restart">restart Quis</button>
+        </div>
+    </div>
+<script src="script.js"></script>
+</body>
+</html>
