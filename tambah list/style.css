@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-color: rgb(201, 237, 233);
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+}
+.judul{
+    font-size: xx-large;
+    color: #00aeff;
+    margin-bottom: 20px;
+    font-family: monospace;
+}
+
+.data-masuk{
+    margin-top: 50px;
+    border-radius: 20px;
+    background-color: #082945;
+    width: 500px;
+    height: 420px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 3px solid white;
+    
+}
+
+label{
+    color: #00aeff;
+    font-family: sans-serif;
+}
+
+input{
+    font-family: sans-serif;
+    color: blue;
+    font-size: 20px;
+    width: 240px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: rgb(190, 229, 255);
+    border: 1.5px solid white;
+    padding: 10px;
+}
+
+input:hover{
+    background-color: #3a5b9e;
+    color: white;
+}
+
+button{
+    background-color: #083ca3;
+    padding: 15px;
+    border: none ;
+    color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+
+}
+
+button:hover{
+    background-color: #3a5b9e;
+}
+
+
+.tempat{
+    background-color: #082945;
+    width: 500px;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+    border-radius: 20px;
+    border: 2px solid white;
+    overflow: scroll;
+}
+.header > h3{
+    font-size: 40px;
+    color: #00aeff;
+    margin-bottom: 10px;
+}
+.header{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(175, 219, 253);
+    font-size: 20px;
+    margin: 30px;
+}
+
+table{
+    background-color: rgb(6, 180, 255);
+    width: 400px;
+    height: 25px;
+    color: white;
+    font-family: sans-serif;
+    font-size: larger;
+    font-weight: 600;
+    border-radius: 10px;
+
+}
+
+tr , th{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #060d5e;
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+
