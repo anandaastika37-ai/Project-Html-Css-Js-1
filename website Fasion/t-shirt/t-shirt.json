@@ -1,0 +1,104 @@
+{
+  "etalase": [
+    {
+      "id": 1,
+      "nama": "Basic White T-Shirt",
+      "kategori": "basic",
+      "warna": "white",
+      "gender": "unisex",
+      "harga": 120000,
+      "size": ["S","M","L","XL"],
+      "gambar": "Basic White T-Shirt.jpg"
+    },
+    {
+      "id": 2,
+      "nama": "Basic Black T-Shirt",
+      "kategori": "basic",
+      "warna": "black",
+      "gender": "unisex",
+      "harga": 125000,
+      "size": ["S","M","L","XL"],
+      "gambar": "Basic Black T-Shirt.jpg"
+    },
+    {
+      "id": 3,
+      "nama": "Oversize Street T-Shirt",
+      "kategori": "streetwear",
+      "warna": "beige",
+      "gender": "male",
+      "harga": 150000,
+      "size": ["M","L","XL"],
+      "gambar": "Oversize Street T-Shirt.jpg"
+    },
+    {
+      "id": 4,
+      "nama": "Graphic Urban T-Shirt",
+      "kategori": "graphic",
+      "warna": "black",
+      "gender": "unisex",
+      "harga": 165000,
+      "size": ["S","M","L"],
+      "gambar": "Graphic Urban T-Shirt.jpg"
+    },
+    {
+      "id": 5,
+      "nama": "Minimal Logo T-Shirt",
+      "kategori": "minimal",
+      "warna": "gray",
+      "gender": "unisex",
+      "harga": 140000,
+      "size": ["S","M","L","XL"],
+      "gambar": "Minimal Logo T-Shirt.jpg"
+    },
+    {
+      "id": 6,
+      "nama": "Vintage Print T-Shirt",
+      "kategori": "vintage",
+      "warna": "cream",
+      "gender": "unisex",
+      "harga": 170000,
+      "size": ["M","L","XL"],
+      "gambar": "Vintage Print T-Shirt.jpg"
+    },
+    {
+      "id": 7,
+      "nama": "Sport Dry Fit T-Shirt",
+      "kategori": "sport",
+      "warna": "blue",
+      "gender": "male",
+      "harga": 155000,
+      "size": ["S","M","L","XL"],
+      "gambar": "Sport Dry Fit T-Shirt.jpg"
+    },
+    {
+      "id": 8,
+      "nama": "Pastel Casual T-Shirt",
+      "kategori": "casual",
+      "warna": "mint",
+      "gender": "female",
+      "harga": 145000,
+      "size": ["S","M","L"],
+      "gambar": "Pastel Casual T-Shirt.jpg"
+    },
+    {
+      "id": 9,
+      "nama": "Oversize Graphic Tee",
+      "kategori": "streetwear",
+      "warna": "dark green",
+      "gender": "unisex",
+      "harga": 175000,
+      "size": ["M","L","XL"],
+      "gambar": "Oversize Graphic Tee.jpg"
+    },
+    {
+      "id": 10,
+      "nama": "Summer Light T-Shirt",
+      "kategori": "summer",
+      "warna": "light yellow",
+      "gender": "unisex",
+      "harga": 135000,
+      "size": ["S","M","L"],
+      "gambar": "Summer Light T-Shirt.jpg"
+    }
+  ]
+}

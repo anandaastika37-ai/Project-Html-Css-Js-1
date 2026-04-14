@@ -1,0 +1,164 @@
+{
+  "etalase": [
+    {
+      "nama": "Hoodie Basic Black",
+      "kategori": "hoodie",
+      "size": "M",
+      "gender": "unisex",
+      "harga": 165000,
+      "gambar": "Hoodie Basic Black.jpg"
+    },
+    {
+      "nama": "Hoodie Basic White",
+      "kategori": "hoodie",
+      "size": "L",
+      "gender": "unisex",
+      "harga": 165000,
+      "gambar": "Hoodie Basic White.jpg"
+    },
+    {
+      "nama": "Hoodie Street Grey",
+      "kategori": "hoodie",
+      "size": "M",
+      "gender": "pria",
+      "harga": 175000,
+      "gambar": "Hoodie Street Grey.jpg"
+    },
+    {
+      "nama": "Hoodie Street Dark",
+      "kategori": "hoodie",
+      "size": "L",
+      "gender": "pria",
+      "harga": 180000,
+      "gambar": "Hoodie Street Dark.jpg"
+    },
+    {
+      "nama": "Hoodie Urban Style",
+      "kategori": "hoodie",
+      "size": "XL",
+      "gender": "unisex",
+      "harga": 185000,
+      "gambar": "Hoodie Urban Style.jpg"
+    },
+    {
+      "nama": "Hoodie Casual Blue",
+      "kategori": "hoodie",
+      "size": "M",
+      "gender": "pria",
+      "harga": 170000,
+      "gambar": "Hoodie Casual Blue.jpg"
+    },
+    {
+      "nama": "Hoodie Casual Cream",
+      "kategori": "hoodie",
+      "size": "S",
+      "gender": "wanita",
+      "harga": 170000,
+      "gambar": "Hoodie Casual Cream.jpg"
+    },
+    {
+      "nama": "Hoodie Oversize Pink",
+      "kategori": "hoodie",
+      "size": "XL",
+      "gender": "wanita",
+      "harga": 190000,
+      "gambar": "Hoodie Oversize Pink.jpg"
+    },
+    {
+      "nama": "Hoodie Oversize Brown",
+      "kategori": "hoodie",
+      "size": "XL",
+      "gender": "unisex",
+      "harga": 195000,
+      "gambar": "Hoodie Oversize Brown.jpg"
+    },
+    {
+      "nama": "Hoodie Sport Black",
+      "kategori": "hoodie",
+      "size": "M",
+      "gender": "pria",
+      "harga": 175000,
+      "gambar": "Hoodie Sport Black.jpg"
+    },
+    {
+      "nama": "Hoodie Sport Navy",
+      "kategori": "hoodie",
+      "size": "L",
+      "gender": "pria",
+      "harga": 175000,
+      "gambar": "Hoodie Sport Navy.jpg"
+    },
+    {
+      "nama": "Hoodie Soft Pastel",
+      "kategori": "hoodie",
+      "size": "S",
+      "gender": "wanita",
+      "harga": 180000,
+      "gambar": "Hoodie Soft Pastel.jpg"
+    },
+    {
+      "nama": "Hoodie Winter Warm",
+      "kategori": "hoodie",
+      "size": "XL",
+      "gender": "unisex",
+      "harga": 210000,
+      "gambar": "Hoodie Winter Warm.jpg"
+    },
+    {
+      "nama": "Hoodie Street Red",
+      "kategori": "hoodie",
+      "size": "M",
+      "gender": "pria",
+      "harga": 175000,
+      "gambar": "Hoodie Street Red.jpg"
+    },
+    {
+      "nama": "Hoodie Street Green",
+      "kategori": "hoodie",
+      "size": "L",
+      "gender": "pria",
+      "harga": 175000,
+      "gambar": "Hoodie Street Green.jpg"
+    },
+    {
+      "nama": "Hoodie Minimal Black",
+      "kategori": "hoodie",
+      "size": "M",
+      "gender": "unisex",
+      "harga": 160000,
+      "gambar": "Hoodie Minimal Black.jpg"
+    },
+    {
+      "nama": "Hoodie Minimal White",
+      "kategori": "hoodie",
+      "size": "L",
+      "gender": "unisex",
+      "harga": 160000,
+      "gambar": "Hoodie Minimal White.jpg"
+    },
+    {
+      "nama": "Hoodie Urban Grey",
+      "kategori": "hoodie",
+      "size": "M",
+      "gender": "unisex",
+      "harga": 185000,
+      "gambar": "Hoodie Urban Grey.jpg"
+    },
+    {
+      "nama": "Hoodie Urban Cream",
+      "kategori": "hoodie",
+      "size": "L",
+      "gender": "unisex",
+      "harga": 185000,
+      "gambar": "Hoodie Urban Cream.jpg"
+    },
+    {
+      "nama": "Hoodie Streetwear Pro",
+      "kategori": "hoodie",
+      "size": "XL",
+      "gender": "unisex",
+      "harga": 220000,
+      "gambar": "Hoodie Streetwear Pro.jpg"
+    }
+  ]
+}

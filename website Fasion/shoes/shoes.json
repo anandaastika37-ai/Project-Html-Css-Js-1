@@ -1,0 +1,84 @@
+{
+  "sepatu": [
+    {
+      "nama": "Nike Air Max",
+      "kategori": "running",
+      "harga": 1500000,
+      "size": [39, 40, 41, 42, 43],
+      "gender": "men",
+      "gambar": "Nike Air Max.jpg"
+    },
+    {
+      "nama": "Adidas Ultraboost",
+      "kategori": "running",
+      "harga": 1800000,
+      "size": [38, 39, 40, 41, 42],
+      "gender": "unisex",
+      "gambar": "Adidas Ultraboost.jpg"
+    },
+    {
+      "nama": "Puma RS-X",
+      "kategori": "casual",
+      "harga": 1200000,
+      "size": [39, 40, 41, 42],
+      "gender": "men",
+      "gambar": "Puma RS-X.jpg"
+    },
+    {
+      "nama": "Converse Chuck Taylor",
+      "kategori": "casual",
+      "harga": 900000,
+      "size": [36, 37, 38, 39, 40],
+      "gender": "women",
+      "gambar": "Converse Chuck Taylor.jpg"
+    },
+    {
+      "nama": "Vans Old Skool",
+      "kategori": "skate",
+      "harga": 850000,
+      "size": [38, 39, 40, 41, 42],
+      "gender": "unisex",
+      "gambar": "Vans Old Skool.jpg"
+    },
+    {
+      "nama": "New Balance 574",
+      "kategori": "casual",
+      "harga": 1100000,
+      "size": [39, 40, 41, 42, 43],
+      "gender": "men",
+      "gambar": "New Balance 574.jpg"
+    },
+    {
+      "nama": "Nike Jordan 1",
+      "kategori": "basket",
+      "harga": 2500000,
+      "size": [40, 41, 42, 43, 44],
+      "gender": "men",
+      "gambar": "Nike Jordan 1.jpg"
+    },
+    {
+      "nama": "Adidas Samba",
+      "kategori": "casual",
+      "harga": 1300000,
+      "size": [37, 38, 39, 40, 41],
+      "gender": "unisex",
+      "gambar": "Adidas Samba.jpg"
+    },
+    {
+      "nama": "Reebok Classic",
+      "kategori": "casual",
+      "harga": 950000,
+      "size": [38, 39, 40, 41, 42],
+      "gender": "men",
+      "gambar": "Reebok Classic.jpg"
+    },
+    {
+      "nama": "Asics Gel Kayano",
+      "kategori": "running",
+      "harga": 1700000,
+      "size": [39, 40, 41, 42, 43],
+      "gender": "men",
+      "gambar": "Asics Gel Kayano.jpg"
+    }
+  ]
+}

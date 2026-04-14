@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --biru : #222831;
+    --abuabu : #393E46;
+    --putih : #fff;
+    --font-fira :  "Fira Sans", sans-serif;
+    --font-aqua :"Quantico", sans-serif;
+
+
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    min-height: 730px;
+    background: linear-gradient(to left ,#f5efe7 10%, #c4c4c1 90%);
+}
+
+.navbar-container{
+    background-color: var(--putih);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 2;
+
+}
+
+.logo{
+    font-family: var(--font-aqua);
+    position: relative;
+    top : -13px;
+}
+
+.list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--font-fira);
+    font-weight: 400;
+}
+.list li{
+    list-style-type: none;
+    margin: 20px;
+}
+
+.list li a {
+  text-decoration: none;
+  color: black;
+  position: relative;
+  display: inline-block;
+}
+
+.list li a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -5px; 
+  width: 100%;
+  height: 2px;
+  background: black;
+  border-radius: 50%;
+  transform: scaleX(0);         
+  transform-origin: center;       
+  transition: transform 0.3s ease;
+}
+
+.list li a:hover::after {
+  transform: scaleX(1);         
+}
+
+.Catalog{
+    position: relative;
+    top: -5px;
+    cursor: pointer;
+}
+.dropdown{
+    display: none;
+}
+.dropdown-active{
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    width: 150px;
+    background-color: #ffffff;
+    top: 60px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.material-symbols-outlined{
+    position: relative;
+    top: 6px;
+}
+
+.container{
+    background-color: #212327;
+    width: 900px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-self: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.whatsapp > img {
+    position: relative;
+    width: 350px;
+}
+
+.nama{
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 170px;
+    font-size: 20px;
+}
