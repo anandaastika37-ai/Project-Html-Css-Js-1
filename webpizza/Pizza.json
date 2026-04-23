@@ -1,0 +1,170 @@
+{
+
+    "menu" : [
+
+    {
+      "kategori" : "pizza",
+      "nama": "Pepperoni Classic",
+      "harga": 52000,
+      "deskripsi": "Pizza dengan topping pepperoni sapi dan keju melimpah",
+      "img" : "images.jpg"
+      
+    },
+    {
+      "kategori" : "pizza",
+      "nama": "Cheese Lovers",
+      "harga": 48000,
+      "deskripsi": "Pizza dengan 4 jenis keju creamy dan lumer",
+      "img" : "images (1).jpg"
+    },
+    {
+      "kategori" : "pizza",
+      "nama": "BBQ Chicken",
+      "harga": 55000,
+      "deskripsi": "Ayam panggang saus BBQ manis gurih dengan paprika segar",
+      "img" : "images (2).jpg"
+    },
+    {
+     "kategori" : "pizza",
+      "nama": "Meat Supreme",
+      "harga": 60000,
+      "deskripsi": "Kombinasi sosis, daging asap, dan pepperoni premium",
+      "img" : "images (3).jpg"
+    },
+    {
+     "kategori" : "pizza",
+      "nama": "Veggie Delight",
+      "harga": 47000,
+      "deskripsi": "Pizza sehat dengan sayuran segar dan saus tomat alami",
+      "img" : "download.jpg"
+    },
+    {
+      "kategori" : "pizza",
+      "nama": "Tuna Melt",
+      "harga": 53000,
+      "deskripsi": "Tuna creamy dengan jagung manis dan keju mozzarella",
+      "img" : "images (4).jpg"
+    },
+    {
+      "kategori" : "pizza",
+      "nama": "Mushroom Cream",
+      "harga": 49000,
+      "deskripsi": "Jamur segar dengan saus krim lembut",
+      "img" : "mushroom-cream-cheese-pizza-1980x1320-121381-1.jpg"
+    },
+    {
+      "kategori" : "pizza",
+      "nama": "Spicy Beef",
+      "harga": 56000,
+      "deskripsi": "Daging sapi pedas dengan cabai pilihan",
+      "img" : "Spicy Beef.jpg"
+    },
+    {
+      "kategori" : "pizza",
+      "nama": "Hawaiian Chicken",
+      "harga": 54000,
+      "deskripsi": "Ayam panggang dengan nanas manis segar",
+      "img" : "Hawaiian Chicken.jpg"
+    },
+    {
+      "kategori" : "pizza",
+      "nama": "Sausage Supreme",
+      "harga": 52000,
+      "deskripsi": "Sosis sapi premium dengan keju leleh",
+      "img" : "Sausage Supreme.jpg"
+    },
+    {
+      "kategori" : "pizza",
+      "nama": "Cheesy Crust Deluxe",
+      "harga": 58000,
+      "deskripsi": "Pinggiran pizza berisi keju lumer",
+      "img" : "Cheesy Crust Deluxe.jpg"
+    },
+    {
+      "kategori" : "pizza",
+      "nama": "Garlic Chicken",
+      "harga": 55000,
+      "deskripsi": "Ayam panggang dengan saus bawang putih aromatik",
+      "img" : "Garlic Chicken.jpg"
+    },
+    {
+      "kategori" : "pizza",
+      "nama": "Double Cheese Pepperoni",
+      "harga": 62000,
+      "deskripsi": "Pepperoni dengan ekstra keju melimpah",
+      "img" : "Double Cheese Pepperoni.jpg"
+    },
+        {
+      "kategori": "pasta",
+      "nama": "Spaghetti Bolognese",
+      "harga": 42000,
+      "deskripsi": "Spaghetti dengan saus daging sapi khas Italia",
+      "img": "Spaghetti Bolognese.jpg"
+    },
+    {
+      "kategori": "pasta",
+      "nama": "Carbonara Creamy",
+      "harga": 45000,
+      "deskripsi": "Pasta dengan saus krim, keju, dan smoked beef",
+      "img": "Carbonara Creamy.jpg"
+    },
+    {
+      "kategori": "pasta",
+      "nama": "Fettuccine Alfredo",
+      "harga": 44000,
+      "deskripsi": "Pasta lebar dengan saus krim keju lembut",
+      "img": "Fettuccine Alfredo.jpg"
+    },
+    {
+      "kategori": "pasta",
+      "nama": "Spaghetti Aglio Olio",
+      "harga": 38000,
+      "deskripsi": "Pasta dengan bawang putih, minyak zaitun, dan cabai",
+      "img": "Spaghetti Aglio Olio.jpg"
+    },
+    {
+      "kategori": "pasta",
+      "nama": "Lasagna Beef",
+      "harga": 50000,
+      "deskripsi": "Lapisan pasta dengan daging sapi dan saus tomat keju",
+      "img": "Lasagna Beef.jpg"
+    },
+
+    {
+      "kategori": "drink",
+      "nama": "Es Teh Manis",
+      "harga": 8000,
+      "deskripsi": "Teh manis dingin segar",
+      "img": "Es Teh Manis.jpg"
+    },
+    {
+      "kategori": "drink",
+      "nama": "Lemon Tea",
+      "harga": 12000,
+      "deskripsi": "Teh lemon segar dengan aroma citrus",
+      "img": "Lemon Tea.jpg"
+    },
+    {
+      "kategori": "drink",
+      "nama": "Cola",
+      "harga": 15000,
+      "deskripsi": "Minuman soda dingin menyegarkan",
+      "img": "Cola.jpg"
+    },
+    {
+      "kategori": "drink",
+      "nama": "Milkshake Coklat",
+      "harga": 20000,
+      "deskripsi": "Minuman susu kocok rasa coklat creamy",
+      "img": "Milkshake Coklat.jpg"
+    },
+    {
+      "kategori": "drink",
+      "nama": "Jus Jeruk Segar",
+      "harga": 18000,
+      "deskripsi": "Jus jeruk asli tanpa pemanis buatan",
+      "img": "Jus Jeruk Segar.jpg"
+    }
+  ]
+
+}
